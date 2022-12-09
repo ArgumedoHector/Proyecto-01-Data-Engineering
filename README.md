@@ -7,7 +7,7 @@
 
 ## **Introducción**
 
-En esta ocasión me encuentro realizando un proyecto para la etapa de Labs para la carrera Data Scientis en laplataforma Henry. 
+En esta ocasión me encuentro realizando un proyecto para la etapa de Labs para la carrera Data Scientis en la plataforma Henry. 
 
 Como parte fundamental de nuestro entrenamiento, voy a realizar una API que me permita realizar consultas y la misma se encontrará dentro de un contenedor de Docker. 
 
