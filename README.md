@@ -52,8 +52,11 @@ Las consultas a realizar son:
 
 + Se procede a generar una API que me permita generar las consultas por medio de funciones y levantar una interfaz visual en el navegador por medio de la erramienta UVICORN. 
 
-+ Una ver verificado el funcionamiento de la API se procede a Dokerizar el proyecto utilizando una imagen de PYTHON 3.10.5
++ Una ves verificado el funcionamiento de la API se procede a Dokerizar el proyecto utilizando una imagen de PYTHON 3.10.5
 
++ Cuando el proyecto ya es viable y esta probado se sube a Git-Hub
+
++ Como Plus se despliega un contenedor en https://mogenius.com/
 
 
 
@@ -61,7 +64,9 @@ Las consultas a realizar son:
 <p align=center>
 <img src = 'https://res.cloudinary.com/practicaldev/image/fetch/s--iOsUGN0b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l4jt274288k241g94r66.png' height = 200></p>
 
-
+## **Pueden ver y probar mi API dokerizada en el siguiente link:** 
+https://proyecto-01-da-prod-proyecto01-labs-zn95mo.mo1.mogenius.io/docs
+## **Pueden ver el video resumen de como realizé este proyecto en el siguiente link:**
 
 ## **Conceptos de interés**
 
