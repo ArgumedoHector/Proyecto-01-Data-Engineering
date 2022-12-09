@@ -67,6 +67,8 @@ Las consultas a realizar son:
 ## **Pueden ver y probar mi API dokerizada en el siguiente link:** 
 https://proyecto-01-da-prod-proyecto01-labs-zn95mo.mo1.mogenius.io/docs
 ## **Pueden ver el video resumen de como realizé este proyecto en el siguiente link:**
+https://youtu.be/BrIIm6N42CU
+
 
 ## **Conceptos de interés**
 
